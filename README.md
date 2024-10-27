@@ -10,7 +10,7 @@
 - 🌱 Currently learning **React Native**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://kushwi15.github.io/Portfolio/)  
 - 📫 Reach me at **kushwinthkumar0215@gmail.com**  
-- 📄 Know more about my experiences [My Resume](kushwi15.github.io/Resume/)
+- 📄 Know more about my experiences [My Resume](https://kushwi15.github.io/Resume/)
 
 
 
