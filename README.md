@@ -1,118 +1,121 @@
+<!-- Hero GIF Banner -->
 [![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://kushwi15.io)
 
-<h1 align="center">Hi 👋, I'm Kushwinth Kumar</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#0abde3">Kushwinth Kumar</span></h1>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | UI/UX Explorer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/VpZ2Nf5gdRYAAAAC/tenor.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1A1B27FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Interactive+Interfaces;Full-stack+Crafted+with+Care;Code.+Design.+Deploy." alt="Typing SVG" />
+</p>
 
-### 🚀 About Me:
-- 🔭 I’m currently working on [Task Reminder](https://github.com/kushwi15/task-reminder.git)  
-- 🌱 Currently learning **React Native**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kushwi15.github.io/Portfolio/)  
-- 📫 Reach me at **kushwinthkumar0215@gmail.com**  
-- 📄 Know more about my experiences [My Resume](https://kushwi15.github.io/Resume/)
+---
 
+<img align="right" alt="Coding Guy" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/kushwinthkumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushwinthkumar" height="30" width="40" />
+### 💡 About Me
+
+- 🎯 Currently building: [Task Reminder](https://github.com/kushwi15/task-reminder.git)  
+- 📱 Learning: **React Native & Mobile-First UI Design**  
+- 🧠 Always exploring: New frameworks, Dev tools, & Best Practices  
+- 🌐 Portfolio: [kushwi15.github.io/Portfolio](https://kushwi15.github.io/Portfolio/)  
+- 📧 Reach me: **kushwinthkumar0215@gmail.com**  
+- 📝 Resume: [Click Here](https://kushwi15.github.io/Resume/)  
+
+
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/kushwi15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/k_u_s_h_w_i" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_u_s_h_w_i" height="30" width="40" />
+  <a href="https://linkedin.com/in/kushwinthkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/k_u_s_h_w_i" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kushwinthkumar0215@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 
+---
 
-### 🛠 Languages and Tools:
-<p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <!-- NodeJS -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> 
-  </a>
-  <!-- Render -->
-  <a href="https://render.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/render.svg" alt="render" width="40" height="40"/> 
-  </a> 
-  <!-- Netlify -->
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> 
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <!-- Chat GPT -->
-  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/> 
-  </a>
+### 🛠️ My Tech Arsenal  
+> "Tools I use to build, break, and rebuild the web!"
+
+#### 💻 MERN Stack & Core Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
+#### 🎨 Frontend Styling & UI Magic
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+#### 🛠️ Dev Tools & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwi15&show_icons=true&locale=en&layout=compact" alt="kushwi15" /></p>
+#### 🧠 AI & Creative Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushwi15&show_icons=true&locale=en" alt="kushwi15" /></p>
+#### 🌍 Always Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushwi15&" alt="kushwi15" /></p>
+---
 
+### 📊 GitHub Insights
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushwi15&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwi15&layout=compact&theme=radical" height="160px"/>
+</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kushwi15&label=Profile%20views&color=0e75b6&style=flat" alt="kushwi15" style="width: 130px; height: auto;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwi15&theme=radical" />
+</p>
+
+---
+
+### 🎯 Fun Facts
+
+- 🧩 I love pixel-perfect designs and bringing them to life with React  
+- 💬 I enjoy building intuitive UIs and solving real-world problems with clean code  
+- 🧪 I test, break, and rebuild — always learning  
+- ☕ I function on good code and cold coffee 😄  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushwi15&label=Profile%20Views&color=blueviolet&style=flat-square" alt="kushwi15" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kushwi15?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%F0%9F%92%BB-blue?style=for-the-badge" />
+  </a>
 </p>
