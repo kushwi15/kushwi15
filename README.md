@@ -15,12 +15,12 @@
 
 ### 💡 About Me
 
-- 🎯 Currently building: [Task Reminder](https://github.com/kushwi15/task-reminder.git)  
+- 🎯 Currently building: [MORENT - CarRental](https://github.com/kushwi15/morent-client)  
 - 📱 Learning: **React Native & Mobile-First UI Design**  
 - 🧠 Always exploring: New frameworks, Dev tools, & Best Practices  
-- 🌐 Portfolio: [kushwi15.github.io/Portfolio](https://kushwi15.github.io/Portfolio/)  
+- 🌐 Portfolio: [kushwi15.github.io/Portfolio](https://kushwi15.github.io/Portfolio)  
 - 📧 Reach me: **kushwinthkumar0215@gmail.com**  
-- 📝 Resume: [Click Here](https://kushwi15.github.io/Resume/)  
+- 📝 Resume: [Click Here](https://kushwi15.github.io/Resume)  
 
 
 
@@ -61,9 +61,10 @@
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite+React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
 
 #### 🛠️ Dev Tools & Deployment
 <p align="center">
