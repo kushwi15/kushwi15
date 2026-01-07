@@ -4,7 +4,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1A1B27FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Interactive+Interfaces;Full-stack+Crafted+with+Care;Code.+Design.+Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1A1B27FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Interactive+Interfaces;Full-stack+Crafted+with+Care;Design.+Code.+Deploy." alt="Typing SVG" />
 </p>
 
 ---
