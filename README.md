@@ -13,11 +13,9 @@
 
 
 ### 💡 About Me
-
-- 🎯 Currently Working On: [SIMS](https://sims-baseldts.vercel.app)  
-- 📱 Learning: **React Native & Mobile-First UI Design** - 🧠 Always exploring: New frameworks, Dev tools, & Best Practices  
+ 
 - 🌐 Portfolio: [iamkushwidev.vercel.app](https://iamkushwidev.vercel.app/)  
-- 📧 Reach me: **kushwinthkumar0215@gmail.com** - 📝 Resume: [Click Here](https://kushwi15.github.io/Resume)  
+- 📧 Reach me: **kushwinthkumar0215@gmail.com** 
 
 
 
