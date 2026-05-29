@@ -1,5 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://kushwi15.io)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushwi15&label=Profile%20Views&color=blueviolet&style=flat-square" alt="kushwi15" />
+</p>
+
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="auto"> I'm <span style="color:#0abde3">Kushwinth Kumar</span></h1>
 <h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | UI/UX Explorer</h3>
 
@@ -109,10 +113,6 @@
 - ☕ I function on good code and cold coffee 😄  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushwi15&label=Profile%20Views&color=blueviolet&style=flat-square" alt="kushwi15" />
-</p>
 
 <p align="center">
   <a href="https://github.com/kushwi15?tab=repositories">
